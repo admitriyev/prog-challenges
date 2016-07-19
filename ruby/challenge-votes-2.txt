@@ -1,0 +1,45 @@
+Social issues: 9
+
+Healthcare: 100
+Immigration: 200
+Education: 300
+Energy independence: 400
+Wealth inequality: 500
+Increase military spending: 600
+Jobs : 800
+Taxes : 900
+The environment : 900
+
+Arizona
+Votes: 100
+Jobs : 0
+Taxes : 90
+The environment : 0
+
+Colorado
+Votes: 60
+Jobs : 0
+Wealth inequality: 20
+The environment : 20
+
+Mississippi
+Votes: 50
+Jobs: 0
+Increase military spending: 30
+Education: 5
+Energy independence: 2
+
+Oklahoma
+Votes: 70
+Jobs: 20
+Increase military spending: 0
+Education: 10
+Energy independence: 2
+
+Maine
+Votes: 120
+Jobs: 0
+Increase military spending: 0
+Education: 1
+Energy independence: 3
+The environment : 90
